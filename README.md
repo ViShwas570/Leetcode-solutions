@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ViShwas570/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ViShwas570/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
