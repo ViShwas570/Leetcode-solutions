@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,8 +111,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
