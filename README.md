@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ViShwas570/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -88,6 +89,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
