@@ -56,6 +56,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -81,5 +82,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
