@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0015-3sum) |
+| [0435-non-overlapping-intervals](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -92,4 +95,8 @@
 | [0704-binary-search](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
