@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -83,6 +84,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
