@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
