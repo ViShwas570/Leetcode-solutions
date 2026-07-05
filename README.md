@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
