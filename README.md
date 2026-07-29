@@ -40,6 +40,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@
 | [0018-4sum](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
