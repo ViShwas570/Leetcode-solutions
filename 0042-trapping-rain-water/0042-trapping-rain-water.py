@@ -68,5 +68,5 @@ if __name__ == "__main__":
     # Example 2
     height2 = [4, 2, 0, 3, 2, 5]
     ans2 = sol.trap(height2)
-    print("\nExample 2 Input:", height2)
+    print("\\nExample 2 Input:", height2)
     print("Example 2 Output:", ans2, "| Expected: 9")
