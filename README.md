@@ -76,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ViShwas570/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -160,6 +162,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0078-subsets) |
 ## Stack
 |  |
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ViShwas570/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
