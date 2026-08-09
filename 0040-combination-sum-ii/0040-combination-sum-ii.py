@@ -6,6 +6,8 @@ class Solution:
             return
         if total<0:
             return
+        if index>=n:
+            return
 
         for i in range(index,n):
             if i>index and nums[i]==nums[i-1]:
@@ -17,6 +19,7 @@ class Solution:
 
     def combinationSum2(self, nums: List[int], target: int) -> List[List[int]]:
         nums.sort()
+        
         result=[]
         self.backtrack(0,target,[],nums,result)
         return result
